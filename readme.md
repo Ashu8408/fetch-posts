@@ -10,3 +10,9 @@
 1. HTML, CSS, JavaScript
 
 2. Responsive UI
+
+# Deployment Link:-
+
+```
+ https://ashu8408.github.io/fetch-posts/
+```
